@@ -2,8 +2,8 @@
 WebApp per la gestione delle prenotazioni, bar e servizi di un lido.
 
 -SVILUPPATO CON-
-- SpringBoot
 - Java
+- SpringBoot
 - Hibernate
 - SQL
 - HTML
