@@ -10,6 +10,7 @@ WebApp per la gestione delle prenotazioni, bar e servizi di un lido.
 - CSS
 
 -FUNZIONAMENTO-
+
 Interfaccia CLIENTE:
 - Registrazione
 - Login
